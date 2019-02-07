@@ -38,6 +38,8 @@ public class testInscripcion {
 		System.out.println("la fecha cuando inscribio fue:"+diaInscripcion+"-"+mesInscripcion+"-"+añoInscripcion);
 		
 		
+		System.out.println("mi hermano es genial");
+		
 		// TODO Auto-generated method stub
 
 	}
